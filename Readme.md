@@ -7,6 +7,8 @@ Vamos a crear nuestra primera aplicación con node.js utilizando dependencias.
 4) Configure su proyecto con git correctamente.
 5) Suba la liga de github.
 
+Para correr la aplicación es necesario usar el comando "npm start" en la terminal.
+
 # Autor
 ```
 Johann David Gómez Villalobos
