@@ -1,4 +1,4 @@
-# Práctica Mi primera aplicación con NP
+# Práctica Mi primera aplicación con NPM
 
 Vamos a crear nuestra primera aplicación con node.js utilizando dependencias.
 1) Cree un directorio con nombre package_manager.
